@@ -1,0 +1,4 @@
+nume,prenume,adresa,specializare,an,grupa,tip_studiu,nota_corespondenta
+licenta_nume_csv,licenta_prenume_csv,licenta_adresa_csv,licenta_specializare_csv,11,111,licenta,1
+master_nume_csv,master_prenume_csv,master_adresa_csv,master_specializare_csv,22,222,master,2
+doctorat_nume_csv,doctorat_prenume_csv,doctorat_adresa_csv,doctorat_specializare_csv,33,333,doctorat,3

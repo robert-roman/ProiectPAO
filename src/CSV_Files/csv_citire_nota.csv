@@ -1,0 +1,5 @@
+id_materie,id_profesor,id_student,nota_materie
+1,2,5,20
+1,2,6,31
+3,2,10,5
+5,5,5,5
